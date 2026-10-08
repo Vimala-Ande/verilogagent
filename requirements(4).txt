@@ -1,0 +1,6 @@
+Flask
+gunicorn
+langchain
+langgraph
+langchain-google-genai
+google-auth==2.49.0
